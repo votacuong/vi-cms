@@ -30,11 +30,7 @@ class AdminUserModel extends BaseModel
 		
 		'language', 
 		
-		'state',
-		
-		'switch',
-		
-		'clientid'
+		'state'
 		
 	];
 

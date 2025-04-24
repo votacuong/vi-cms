@@ -29,11 +29,7 @@ class UserModel extends BaseModel
 		
 		'language', 
 		
-		'state',
-		
-		'switch',
-		
-		'clientid'
+		'state'
 		
 	];
 
@@ -245,8 +241,6 @@ class UserModel extends BaseModel
 		$user->language = '';
 		
 		$user->state = 0;
-		
-		$user->clientid = '';
 		
 		return (array)$user;
 	}

@@ -22,7 +22,7 @@ include(dirname(__FILE__).'/components/head.php');
 		  </div>
 		</div>
 	</div>
-	
+    <script src="<?php echo v_base_url('public/back-end/assets/js/hoverable-collapse.js');?>"></script>
     <script type="text/javascript">
 	
 		jQuery(document).ready(function(){
