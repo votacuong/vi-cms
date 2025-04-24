@@ -50,9 +50,6 @@
               <a class="text-white">Your Account</a>
             </p>
             <p>
-              <a class="text-white">Become an Affiliate</a>
-            </p>
-            <p>
               <a class="text-white">Shipping Rates</a>
             </p>
             <p>
