@@ -58,6 +58,10 @@ $routes->group('user', static function ($routes) {
 	$routes->get('edit', 'UserController::edit');
 	
     $routes->post('edit', 'UserController::edit');	
+	
+	$routes->get('store', 'UserController::store');
+	
+    $routes->post('store', 'UserController::store');
  
 });
 
