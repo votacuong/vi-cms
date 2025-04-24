@@ -173,8 +173,6 @@ class UserController extends BaseController
 			
 				$Mailer->sendMail($this->request->getVar('email'), 'Signup information', $message );
 				
-				session()->set('register_id', $insertID);
-				
 				v_redirect('');
 				
 			}else{
