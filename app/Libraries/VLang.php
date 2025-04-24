@@ -42,7 +42,7 @@ class VLang{
 	public static function __($code)
 	{
 		
-		iif ( count( self::$langs ) == 0 )
+		if ( count( self::$langs ) == 0 )
 		{
 			
 			if (!isAdmin()){
