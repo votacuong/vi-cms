@@ -10,8 +10,8 @@
 
 **How is using?**
 1. Build Content Management System
-2. Build MarketPlace system
-3. Build E-Commerece system
-4. Build E-Learning system
-5. Build your custom system
+2. Build MarketPlace System
+3. Build E-Commerece System
+4. Build E-Learning System
+5. Build your custom System
 
