@@ -28,16 +28,13 @@
           <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
             <p>
-              <a class="text-white">MDBootstrap</a>
+              <a class="text-white">Good Product</a>
             </p>
             <p>
-              <a class="text-white">MDWordPress</a>
+              <a class="text-white">Favious Product</a>
             </p>
             <p>
-              <a class="text-white">BrandFlow</a>
-            </p>
-            <p>
-              <a class="text-white">Bootstrap Angular</a>
+              <a class="text-white">Top downloads</a>
             </p>
           </div>
           <!-- Grid column -->
