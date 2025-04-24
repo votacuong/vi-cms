@@ -2,7 +2,7 @@
 
 **#Installation:**
 1. Download zip from github
-2. Extract to localtion
+2. Extract to localhost
 3. Edit .env and see config
 4. Import database from vi-cms.sql in root path
 5. Open front-end(rooturl) and back-end(/admin)
