@@ -242,8 +242,6 @@ class UserModel extends BaseModel
 		
 		$user->state = 0;
 		
-		$user->clientid = '';
-		
 		return (array)$user;
 	}
 }
