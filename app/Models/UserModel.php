@@ -29,11 +29,7 @@ class UserModel extends BaseModel
 		
 		'language', 
 		
-		'state',
-		
-		'switch',
-		
-		'clientid'
+		'state'
 		
 	];
 
