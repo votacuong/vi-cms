@@ -8,3 +8,10 @@
 5. Open front-end(rooturl) and back-end(/admin)
 6. Login with account: Email: admin@gmail.com Password:123456
 
+**#How is using?**
+1. Build Content Management System
+2. Build MarketPlace system
+3. Build E-Commerece system
+4. Build E-Learning system
+5. Build your custom system
+
