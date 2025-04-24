@@ -84,8 +84,8 @@
             <!-- Copyright -->
             <div class="p-3">
               © 2025 Copyright:
-              <a class="text-white" href="https://abbora.com/"
-                 >abbora.com</a
+              <a class="text-white" href="https://vi-cms.com/"
+                 >vi-cms.com</a
                 >
             </div>
             <!-- Copyright -->
