@@ -1,7 +1,6 @@
 **VI-CMS is a CMS free opensource software using Framework Codeigniter 4**
 
-
-#Instanlation
+**#Installation**
 1. Download zip from github
 2. Extract to localtion
 3. Edit .env and see config
