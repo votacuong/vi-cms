@@ -46,7 +46,7 @@ CREATE TABLE `app_users` (
 --
 
 INSERT INTO `app_users` (`id`, `user_type`, `firstname`, `lastname`, `phone`, `email`, `username`, `password`, `settings`, `language`, `state`) VALUES
-(1, 1, 'Vo Ta', 'Cuong', '+84334551584', 'admin@gmail.com', 'admin', '$2y$10$erpcftOYadGIb1i0Id1jVejpGruVITfV2JFVZ0z0/9oI0rnu4KwuK', '', 'en-GB', 1);
+(1, 1, 'Vo Ta', 'Cuong', '+0123456789', 'admin@gmail.com', 'admin', '$2y$10$erpcftOYadGIb1i0Id1jVejpGruVITfV2JFVZ0z0/9oI0rnu4KwuK', '', 'en-GB', 1);
 
 --
 -- Indexes for dumped tables
